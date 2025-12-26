@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AI 折叠占位 & 自动滚动（全平台版）
+// @name         AI 回答折叠
 // @namespace    https://github.com/dlddwb
 // @version      0.1
 // @description  支持 Chatgpt、腾讯元宝 AI 站点
