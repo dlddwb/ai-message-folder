@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         AI 回答折叠
-// @namespace    https://github.com/dlddwb
-// @version      0.1
+// @namespace    https://github.com/dlddwb/ai-message-folder
+// @version      0.1.1
 // @description  支持 Chatgpt、腾讯元宝 AI 站点
 // @match        https://chatgpt.com/*
 // @match        https://yuanbao.tencent.com/*
+// @updateURL    https://github.com/dlddwb/ai-message-folder/releases/latest/download/ai-message-folders.user.js
+// @downloadURL  https://github.com/dlddwb/ai-message-folder/releases/latest/download/ai-message-folders.user.js
 // @grant        none
 // ==/UserScript==
 
